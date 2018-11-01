@@ -1,7 +1,6 @@
 import React from "react";
 import { ChatDataSource } from "meetup-chat-client-react-component";
 import { renderChatContent } from "./renderChatContent";
-import "./styles.css";
 
 export const App = () => (
   <div className="app">
